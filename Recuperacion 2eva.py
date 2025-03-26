@@ -48,7 +48,7 @@ print(f"datos in range(len(-1), -1, -1):")
 
 
 # 4. Muestra por pantalla la cantidad de elementos que tiene el diccionario cantidad_letras
-print(f"CANTIDAD DE NOMBRES ALOJADOS: "+ datos(len (-1))) # CANTIDAD DE NOMBRES ALOJADOS: 3
+print(f"CANTIDAD DE NOMBRES ALOJADOS: "+ datos(len(-1))) # CANTIDAD DE NOMBRES ALOJADOS: 3
 
 
 
