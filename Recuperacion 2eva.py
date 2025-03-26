@@ -48,9 +48,9 @@ print(f"datos in range(len(-1), -1, -1):")
 
 
 # 4. Muestra por pantalla la cantidad de elementos que tiene el diccionario cantidad_letras
-print(f"CANTIDAD DE NOMBRES ALOJADOS: "+ (len -1)) # CANTIDAD DE NOMBRES ALOJADOS: 3
+print(f"CANTIDAD DE NOMBRES ALOJADOS: "+ (len (-1)) # CANTIDAD DE NOMBRES ALOJADOS: 3
 
 
 
 # 5. Utilizando el diccionario y el valor de la clave, imprime el OUTPUT
-print(f"(len(-1))") # Mengano tiene 7 letras
+print(f"datos (len(-1) + tiene cantidad_letras in datos + letras") # Mengano tiene 7 letras
