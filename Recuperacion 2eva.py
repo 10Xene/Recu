@@ -23,7 +23,7 @@ datos = ["Fulano", "Mengano", "Zutano"]
 
 
 # 1. Imprime en la misma línea el elemento en la posición 1 y 2
-print(f"dato in datos(len(-2) y (len(-1)") # Mengano y Zutano
+print(f"dato in datos(len(-1). -1 y (len(-1)") # Mengano y Zutano
 
 
 
@@ -48,9 +48,9 @@ print(f"datos in range(len(-1), -1, -1):")
 
 
 # 4. Muestra por pantalla la cantidad de elementos que tiene el diccionario cantidad_letras
-print(f"CANTIDAD DE NOMBRES ALOJADOS: "+ (len (-1))) # CANTIDAD DE NOMBRES ALOJADOS: 3
+print(f"CANTIDAD DE NOMBRES ALOJADOS: "+ datos(len (-1))) # CANTIDAD DE NOMBRES ALOJADOS: 3
 
 
 
 # 5. Utilizando el diccionario y el valor de la clave, imprime el OUTPUT
-print(f"datos (len(-1) + tiene cantidad_letras in datos + letras") # Mengano tiene 7 letras
+print(f"datos(len(-1) + tiene cantidad_letras in datos + letras") # Mengano tiene 7 letras
