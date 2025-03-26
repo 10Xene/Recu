@@ -23,7 +23,7 @@ datos = ["Fulano", "Mengano", "Zutano"]
 
 
 # 1. Imprime en la misma línea el elemento en la posición 1 y 2
-print(f"dato in datos(len(-1). -1 y (len(-1)") # Mengano y Zutano
+print(f"dato in datos(len(-1), -1 y (len(-1)") # Mengano y Zutano
 
 
 
