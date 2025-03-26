@@ -23,18 +23,18 @@ datos = ["Fulano", "Mengano", "Zutano"]
 
 
 # 1. Imprime en la misma línea el elemento en la posición 1 y 2
-print(???) # Mengano y Zutano
+print(f"[len(-2)] y [len (-1)]") # Mengano y Zutano
 
 
 
 # 2. Crea un diccionario que contenga los apellidos en cada clave, y el valor es la cantidad de letras de dicho apellido
 # Para hallar el valor, utilizar la función que devuelve la cantidad de caracteres en un string
 cantidad_letras = {
-    datos[0]: ???,
-    datos[1]: ???,
-    datos[2]: ???
+    datos[0]: 6,
+    datos[1]:7,
+    datos[2]: 6
 }
-print(???) # {'Fulano': 6, 'Mengano': 7, 'Zutano': 6}
+print(f"cantidad_letras in datos") # {'Fulano': 6, 'Mengano': 7, 'Zutano': 6}
 
 
 
@@ -44,13 +44,13 @@ Zutano
 Mengano
 Fulano
 '''
-
+print(f"datos in range(len(-1), -1, -1):") 
 
 
 # 4. Muestra por pantalla la cantidad de elementos que tiene el diccionario cantidad_letras
-print("CANTIDAD DE NOMBRES ALOJADOS: "+ ???) # CANTIDAD DE NOMBRES ALOJADOS: 3
+print(f"CANTIDAD DE NOMBRES ALOJADOS: "+ (len -1)) # CANTIDAD DE NOMBRES ALOJADOS: 3
 
 
 
 # 5. Utilizando el diccionario y el valor de la clave, imprime el OUTPUT
-print(???) # Mengano tiene 7 letras
+print(f"(len(-1))") # Mengano tiene 7 letras
